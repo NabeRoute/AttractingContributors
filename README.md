@@ -33,4 +33,5 @@ Goal: I want contributors to help me list out their favorite artist.
 12. Ella Fitgerald
 13. Bruno Mars
 14. Fujii Kaze
+15. BUMP OF CHICKEN
 
